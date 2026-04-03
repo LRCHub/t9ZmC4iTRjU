@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DIAMONDS (ダイアモンド)",
+  "base_artist": "PRINCESS PRINCESS",
+  "createdAt": "2026-04-03T11:02:17.605077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Diamonds",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/01_Diamonds_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diamonds Dancing",
+      "artist": "Drake feat. Future",
+      "has_synced": true,
+      "path": "select/02_Diamonds_Dancing_Drake_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diamonds Dancing",
+      "artist": "Drake & Future",
+      "has_synced": true,
+      "path": "select/03_Diamonds_Dancing_Drake_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diamonds (feat. Gunna)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Diamonds_(feat._Gunna)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diamonds",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/05_Diamonds_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diamonds",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/06_Diamonds_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diamonds",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/07_Diamonds_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diamonds (live)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/08_Diamonds_(live)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diamonds & Gold",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/09_Diamonds_&_Gold_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Five Diamonds",
+      "artist": "Mikey the Magician",
+      "has_synced": false,
+      "path": "select/10_Five_Diamonds_Mikey_the_Magician.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Farmers (feat. Tikki Diamonds)",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/11_Farmers_(feat._Tikki_Diamonds)_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diamonds All on My Wrist",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/12_Diamonds_All_on_My_Wrist_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamonds in the Mine",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/13_Diamonds_in_the_Mine_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Diamonds And Gold",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/14_Diamonds_And_Gold_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Diamonds Are a Girl's Best Friend",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/15_Diamonds_Are_a_Girl's_Best_Friend_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Diamonds At Your Feet",
+      "artist": "Muddy Waters",
+      "has_synced": true,
+      "path": "select/16_Diamonds_At_Your_Feet_Muddy_Waters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIAMONDS",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/pl_01_DIAMONDS_PRINCESS_PRINCESS.txt"
+    }
+  ]
+}
